@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.foodImage {
+    display: block;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    max-height: 500px;
+    max-width: 500px;
+    object-fit: contain;
+}
+
+.allLinks {
+    align-content: center;
+}
+
+.foodInformation {
+    padding: 10px 0px;
+    text-align: justify;;
+}
+
+.ingredients {
+    height: 100%
+}
